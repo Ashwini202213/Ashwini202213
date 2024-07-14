@@ -1,16 +1,20 @@
-- 👋 Hi, I’m @Ashwini202213
-- 👀 I’m interested in web Devlopment 
-- 🌱 I’m currrently working on frontend leanings.
-- 💞️ I’m looking to collaborate on web Development
+- Hi there, I'm Ashwini Magar 👋
+- 👩‍💻 Frontend Developer
+- 🌱 I’m currrently working on the cardekho clone project.
+- 💞️ Looking to collaborate on: Web development projects
+- 
+About Me:
+Education: Bachelor of Computer Science (BCS) with a 90% grade
+Current Role: Frontend Developer in an IT company
+Interests: Passionate about web development and continuously learning new technologies
+Philosophy: Success is a journey, not a destination. I strive to excel in technology and develop my talents to showcase my best in the corporate world.
 
-*About-
-Education: BCS (90%)
-Currently Working in IT company.
-Looking forward to contribute in Web Development.
-Considering success as a path not the destination, I continuously pursue to excel in the field of technology and 
-develop my talents to expose the best of me in the demanding corporate world.
 - 📫 How to reach me 
-https://www.linkedin.com/in/ashwini-magar-40860a218/
+
+Let's Connect
+LinkedIn: Ashwini Magar(https://www.linkedin.com/in/ashwini-magar-40860a218/)
+GitHub: Ashwini202213
+
 
 <!---
 Ashwini202213/Ashwini202213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
